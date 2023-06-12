@@ -2,7 +2,7 @@
 
 
 ## Description 
-Designed to practide applying acceptible accessagility standards so the website is optimized for search engines. 
+Designed to practide applying acceptible accessability standards so the website is optimized for search engines. 
 
 ## inatallation
 Run in VSCode and access through the Brouser or by the deployed link. 
